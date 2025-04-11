@@ -49,8 +49,8 @@ This setup is designed for local or testing environments and includes:
    ```
 
 5. **Access Keycloak**
-https://keycloak-testing.apps-crc.testing
-https://keycloak-testing-second.apps-crc.testing
+   - https://keycloak-testing.apps-crc.testing
+   - https://keycloak-testing-second.apps-crc.testing
 
 
 ## Notes
